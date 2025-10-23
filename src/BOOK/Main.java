@@ -1,4 +1,4 @@
-package OOP_1;
+package BOOK;
 
 public class Main {static void main(String[]args){
     Book book1 = new Book("Pushkin","Evgeny Onegin",1831);

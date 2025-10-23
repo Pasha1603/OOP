@@ -1,6 +1,4 @@
-package OOP_1;
-
-import java.util.Objects;
+package BOOK;
 
 public class Book {
     String author;
