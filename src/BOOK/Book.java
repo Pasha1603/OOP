@@ -5,7 +5,7 @@ public class Book {
     String title;
     int year;
     boolean isRead;
-    public Book(String bookAuthor, String bookTitle,int bookYear){
+    public Book(String bookAuthor, String bookTitle,int bookYear ){
         author = bookAuthor;
         title = bookTitle;
         year = bookYear;

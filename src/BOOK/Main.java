@@ -1,7 +1,7 @@
 package BOOK;
 
 public class Main {static void main(String[]args){
-    Book book1 = new Book("Pushkin","Evgeny Onegin",1831);
+    Book book1 = new Book("Pushkin","Evgeny Onegin",1831 );
     Book book2 = new Book("Chehov","Krujovnik", 1898);
     Book book3 = new Book("Sorokin","Nasty",2001 );
     System.out.println("Book:");
