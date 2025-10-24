@@ -14,6 +14,6 @@ public class Truck extends vehicle{
     @Override
     public void unike(){
         super.unike();
-        System.out.println("You full");
+        System.out.println("Keep an eye on the dimensions");
     }
 }

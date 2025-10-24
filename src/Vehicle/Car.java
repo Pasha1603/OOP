@@ -17,6 +17,6 @@ public class Car extends vehicle {
     @Override
     public void unike() {
         super.unike();
-        System.out.println("fasten your seat belts before driving");
+        System.out.println("Fasten your seat belts before driving");
     }
 }

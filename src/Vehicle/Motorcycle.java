@@ -14,6 +14,7 @@ public class Motorcycle extends vehicle{
     @Override
     public void unike(){
         super.unike();
+        System.out.println("Put on your helmet");
 
     }
 }
