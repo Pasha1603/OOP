@@ -8,6 +8,7 @@ public class main {
         Motorcycle motorcycle = new Motorcycle("Ij", 80, "92", 23);
         Truck truck = new Truck("Kamaz", 120, "Disel", 5000);
         while (true) {
+            System.out.println("_________________________________");
         System.out.println("Enter vehicle:");
         System.out.println("1 - Car");
         System.out.println("2 - Motorcycle");
