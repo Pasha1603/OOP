@@ -1,20 +1,4 @@
-//Создай базовый класс Vehicle с полями:
-//
-//brand (марка)
-//
-//maxSpeed (максимальная скорость)
-//
-//fuelType (тип топлива)
-//
-//И производные классы:
-//
-//Car (доп. поле: numberOfDoors)
-//
-//Motorcycle (доп. поле: hasSidecar)
-//
-//Truck (доп. поле: loadCapacity)
-//
-//У всех классов должен быть метод displayInfo().
+
 package Vehicle;
 
 public class vehicle {
