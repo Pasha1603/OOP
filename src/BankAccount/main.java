@@ -17,10 +17,10 @@ public class main {
             if (b == 1) {
                 account.deposit();
             }
-            if (b == 2) {
+            else if (b == 2) {
                 account.withdraw();
             }
-            if (b == 3) {
+            else if (b == 3) {
                 boolean back =true;
                 while (back) {
 

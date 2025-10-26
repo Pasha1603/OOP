@@ -23,16 +23,16 @@ public class main {
 
 
             }
-            if (a == 2) {
+           else if (a == 2) {
                 motorcycle.displayInfo();
                 motorcycle.unike();
             }
-            if (a == 3) {
+           else if (a == 3) {
                 truck.displayInfo();
                 truck.unike();
 
             }
-            if (a == 4) {
+           else if (a == 4) {
                 break;
             }
         }
